@@ -1,0 +1,27 @@
+{
+    "name": "phalapi/ip2address",
+    "description": "PhalApi 2.x ip扩展，用于ip转换成地址。",
+    "type": "library",
+    "keywords": [
+        "phalapi",
+        "phalapi-ip2address",
+        "ip2address",
+        "ip转地址"
+    ],
+    "license": "GPL-3.0+",
+    "minimum-stability": "dev",
+    "homepage": "",
+    "authors": [
+        {
+            "name": "yfanlu",
+            "email": "yfanlu@126.com",
+            "homepage": "",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PhalApi\\Pinyin\\": "src"
+        }
+    }
+}
