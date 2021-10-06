@@ -1,5 +1,5 @@
 {
-    "name": "phalapi/ip2address",
+    "name": "yfanlu/phalapi-ip2address",
     "description": "PhalApi 2.x ip扩展，用于ip转换成地址。",
     "type": "library",
     "keywords": [
@@ -21,7 +21,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "PhalApi\\Pinyin\\": "src"
+            "PhalApi\\Ip2address\\": "src"
         }
     }
 }
