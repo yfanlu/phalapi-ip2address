@@ -1,2 +1,2 @@
-# ip2address
-IP转换成地址，基于qqwry.dat数据库
+# ip转换成地址
+基于phalapi框架，使用qqwry.dat数据库
